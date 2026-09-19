@@ -1,0 +1,2 @@
+# Zepto-E-Commerce-End-to-End-Data-Analytics-Project
+End-to-end Zepto E-commerce analytics project across 4 tables. Excel reporting with Pivot Tables &amp; Slicers, 30+ SQL queries using Joins, Group By, Having, Subqueries &amp; Window Functions, Python EDA with Pandas, Seaborn &amp; Matplotlib for insights, plus interactive Power BI dashboard with DAX KPIs tracking sales, AOV and delivery performance for growth
