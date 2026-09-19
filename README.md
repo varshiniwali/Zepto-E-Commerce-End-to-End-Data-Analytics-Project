@@ -50,12 +50,12 @@ The project uses 4 normalized tables:
 - `02_business_queries.sql` - Divided into:
     - Basic Aggregation: `GROUP BY, HAVING`
     - Joins: `INNER, LEFT JOIN` across 4 tables
-    - Subqueries & CTEs
-    - Window Functions: `RANK(), DENSE_RANK(), ROW_NUMBER(), LAG(), LEAD()`
+    - Subqueries
+    - Window Functions: `RANK(), DENSE_RANK(), ROW_NUMBER(), LAG(), LEAD()
 
 **3. Python - EDA & Visualization**
 - `Zepto_EDA.ipynb`
-- Data manipulation with **Pandas & NumPy**
+- Data manipulation with **Pandas**
 - Visualizations with **Matplotlib & Seaborn**
 - Analysis: Sales trend, Category performance, City-wise analysis, Delivery time analysis
 
